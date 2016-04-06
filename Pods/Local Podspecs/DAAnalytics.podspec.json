@@ -1,0 +1,17 @@
+{
+  "name": "DAAnalytics",
+  "version": "1.0",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "authors": {
+    "Alexander Desyatov": "desyatovav@gmail.com"
+  },
+  "dependencies": {
+    "AFNetworking-RACExtensions": [
+
+    ]
+  },
+  "source_files": "classes/*.{h,m}",
+  "requires_arc": true
+}
